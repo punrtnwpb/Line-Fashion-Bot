@@ -1,0 +1,31 @@
+id,name,category,color,style_tags,occasion,price_thb,rating,sentiment,keyword_th
+1,Vintage Denim Shirt,shirt,blue,vintage|casual,travel|daily,450,4.5,0.82,เสื้อเชิ้ตยีนส์ วินเทจ สีฟ้า
+2,Retro Hawaiian Shirt,shirt,blue,vintage,travel,390,4.2,0.75,เสื้อฮาวาย วินเทจ สีฟ้า
+3,Oversized Chambray Shirt,shirt,blue,casual|minimal,daily|work,520,4.4,0.80,เสื้อเชิ้ต แชมเบรย์ สีฟ้า
+4,Washed Vintage Tee,tshirt,blue,vintage|street,travel|daily,290,4.1,0.70,เสื้อยืด วินเทจ สีฟ้า
+5,Corduroy Overshirt,shirt,brown,vintage,travel|daily,690,4.6,0.85,เสื้อเชิ้ต ลูกฟูก วินเทจ สีน้ำตาล
+6,Linen Beach Shirt,shirt,white,casual|minimal,travel,480,4.3,0.78,เสื้อเชิ้ต ลินิน สีขาว
+7,Striped Cotton Shirt,shirt,blue,minimal,work,550,4.0,0.65,เสื้อเชิ้ต ลายทาง สีฟ้า
+8,Plain Black Tee,tshirt,black,minimal|casual,daily,199,4.4,0.80,เสื้อยืด สีดำ
+9,Graphic Street Tee,tshirt,black,street,daily|party,350,3.9,0.60,เสื้อยืด สตรีท สีดำ
+10,Oxford Shirt White,shirt,white,formal|minimal,work,590,4.5,0.83,เสื้อเชิ้ต ออกซ์ฟอร์ด สีขาว
+11,Slim Black Jeans,jeans,black,minimal|street,daily|work,790,4.3,0.76,กางเกงยีนส์ สีดำ
+12,Straight Black Jeans,jeans,black,vintage|casual,daily,750,4.1,0.70,กางเกงยีนส์ ขากระบอก สีดำ
+13,Mom Jeans Light Wash,jeans,blue,vintage,daily|travel,690,4.4,0.79,กางเกงยีนส์ วินเทจ สีฟ้า
+14,Wide Leg Jeans,jeans,blue,street,daily,850,4.0,0.66,กางเกงยีนส์ ขากว้าง
+15,Chino Pants Beige,pants,beige,minimal|formal,work,650,4.2,0.74,กางเกงชิโน่ สีเบจ
+16,Cargo Pants Green,pants,green,street,travel|daily,720,4.1,0.72,กางเกงคาร์โก้ สีเขียว
+17,Linen Shorts,shorts,beige,casual,travel,350,4.3,0.80,กางเกงขาสั้น ลินิน
+18,Board Shorts Blue,shorts,blue,sport|casual,travel|exercise,320,4.0,0.70,กางเกงขาสั้น ชายหาด สีฟ้า
+19,Running Shorts,shorts,black,sport,exercise,290,4.5,0.84,กางเกงวิ่ง สีดำ
+20,Floral Maxi Dress,dress,pink,vintage|casual,travel|party,890,4.6,0.86,เดรสยาว ลายดอก
+21,Slip Dress Black,dress,black,minimal,party,750,4.2,0.73,เดรส สายเดี่ยว สีดำ
+22,Polka Dot Dress,dress,white,vintage,party|daily,680,4.3,0.77,เดรส ลายจุด วินเทจ
+23,Pleated Skirt,skirt,grey,minimal|formal,work,490,4.1,0.71,กระโปรงพลีท สีเทา
+24,Denim Skirt,skirt,blue,vintage|casual,daily|travel,450,4.2,0.75,กระโปรงยีนส์ สีฟ้า
+25,Denim Jacket,jacket,blue,vintage|street,travel|daily,990,4.7,0.88,แจ็คเก็ตยีนส์ สีฟ้า
+26,Windbreaker,jacket,black,sport|street,travel|exercise,850,4.0,0.68,เสื้อแจ็คเก็ต กันลม สีดำ
+27,Varsity Jacket,jacket,red,vintage|street,daily|party,1200,4.4,0.80,แจ็คเก็ต วาร์ซิตี้ สีแดง
+28,Sports Dry Tee,tshirt,grey,sport,exercise,250,4.3,0.79,เสื้อกีฬา สีเทา
+29,Pastel Polo,shirt,pink,casual|minimal,daily|work,420,4.0,0.69,เสื้อโปโล สีชมพู
+30,Resort Shirt Green,shirt,green,vintage|casual,travel,460,4.1,0.72,เสื้อเชิ้ต รีสอร์ท สีเขียว
