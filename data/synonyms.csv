@@ -74,3 +74,16 @@ party,occasion,party
 ออกกำลัง,occasion,exercise
 วิ่ง,occasion,exercise
 ฟิตเนส,occasion,exercise
+สเวตเตอร์,category,sweater
+เสื้อกันหนาว,category,sweater
+ไหมพรม,category,sweater
+ฮู้ด,category,sweater
+sweater,category,sweater
+hoodie,category,sweater
+เหลือง,color,yellow
+yellow,color,yellow
+ม่วง,color,purple
+purple,color,purple
+ส้ม,color,orange
+orange,color,orange
+กากี,color,beige
