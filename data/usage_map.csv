@@ -1,0 +1,8 @@
+usage,style_tags,occasion
+Casual,casual,daily|travel
+Smart Casual,casual|formal,daily|work
+Sports,sport,exercise|travel
+Formal,formal,work
+Party,street,party
+Travel,casual,travel
+Ethnic,ethnic,party
