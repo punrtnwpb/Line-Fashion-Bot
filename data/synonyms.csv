@@ -87,3 +87,12 @@ purple,color,purple
 ส้ม,color,orange
 orange,color,orange
 กากี,color,beige
+เสื้อ,category,top
+ผู้ชาย,gender,men
+ผช,gender,men
+men,gender,men
+ผู้หญิง,gender,women
+ผญ,gender,women
+หญิง,gender,women
+women,gender,women
+เด็ก,gender,kids
