@@ -96,3 +96,9 @@ men,gender,men
 หญิง,gender,women
 women,gender,women
 เด็ก,gender,kids
+งานแต่ง,occasion,party
+งานแต่ง,style,formal
+งานเลี้ยง,style,formal
+สัมภาษณ์งาน,occasion,work
+สัมภาษณ์งาน,style,formal
+คาเฟ่,occasion,daily
